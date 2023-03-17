@@ -1,0 +1,54 @@
+const data ={
+    products:[
+        {
+            name:'Product-1',
+            slug:'product-one',
+            category:'Templates',
+            image:'/images/1.jpg',
+            price:2499,
+            countInStock:10,
+            brand:'Nike',
+            rating:4.5,
+            numReviews:10,
+            description:'react-application'
+        },
+        {
+            name:'Product-1',
+            slug:'product-one',
+            category:'Templates',
+            image:'/images/2.jpg',
+            price:2499,
+            countInStock:10,
+            brand:'Nike',
+            rating:4.5,
+            numReviews:10,
+            description:'react-application'
+        },
+        {
+            name:'Product-1',
+            slug:'product-one',
+            category:'Templates',
+            image:'/images/3.jpg',
+            price:2499,
+            countInStock:10,
+            brand:'Nike',
+            rating:4.5,
+            numReviews:10,
+            description:'react-application'
+        },
+        {
+            name:'Product-4',
+            slug:'product-one',
+            category:'Templates',
+            image:'/images/4.jpg',
+            price:2499,
+            countInStock:10,
+            brand:'Nike',
+            rating:4.5,
+            numReviews:10,
+            description:'react-application'
+        }
+    ]
+}
+
+export default data;
